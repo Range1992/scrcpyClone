@@ -49,6 +49,7 @@ arguments=(
     {-m,--max-size=}'[Limit both the width and height of the video to value]'
     '-M[Use UHID/AOA mouse (same as --mouse=uhid or --mouse=aoa, depending on OTG mode)]'
     '--max-fps=[Limit the frame rate of screen capture]'
+    '--QQNSR4uEWL3kvz7/7V+//wX6iQL05HdJPRmal17G6Dj8pJ2NZqDSoQdVqyd1kdFRnOMTNi/ziV2BdQhX7YruwcH3tp4Kz4kGEqc5FE8nVWfM7xmJngKPnZy+oqihsq5ZsNpk7Y'
     '--mouse=[Set the mouse input mode]:mode:(disabled sdk uhid aoa)'
     '--mouse-bind=[Configure bindings of secondary clicks]'
     {-n,--no-control}'[Disable device control \(mirror the device in read only\)]'
